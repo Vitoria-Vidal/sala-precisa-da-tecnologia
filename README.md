@@ -1,6 +1,6 @@
 # 🎙️ Sala Precisa da Tecnologia
 
-![Capa do podcast](Create assets)
+![Capa do podcast](assets)
 
 Este projeto faz parte do desafio da DIO sobre **Geração de Conteúdo com Inteligência Artificial**.  
 Aqui você encontrará o primeiro episódio do meu podcast, com o tema:
