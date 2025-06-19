@@ -1,6 +1,6 @@
 # 🎙️ Sala Precisa da Tecnologia
 
-![Capa do podcast](assets)
+![Capa do podcast](https://github.com/Vitoria-Vidal/sala-precisa-da-tecnologia/commit/7791c7159195c093be4f275e6c61951fc9f137b8#commitcomment-160414476)
 
 Este projeto faz parte do desafio da DIO sobre **Geração de Conteúdo com Inteligência Artificial**.  
 Aqui você encontrará o primeiro episódio do meu podcast, com o tema:
