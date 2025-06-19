@@ -27,7 +27,7 @@ Criar um episódio de podcast utilizando ferramentas de **IA generativa**, aplic
 
 ## 🎧 Episódio
 
-**▶️ Ouça aqui:** [Clique para ouvir o episódio](Podcast-sala-precisa-da-tecnologia)
+**▶️ Ouça aqui:** [Clique para ouvir o episódio](https://github.com/Vitoria-Vidal/sala-precisa-da-tecnologia/commit/37e9153a54e3c3ccae9023cdfafffc0c7993dd00#commitcomment-160415796)
 
 ---
 
