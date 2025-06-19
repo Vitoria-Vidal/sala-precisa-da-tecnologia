@@ -1,0 +1,22 @@
+// Prompts utilizados para gerar o roteiro do podcast com apoio do ChatGPT
+// Tema: Tendências da Inteligência Artificial
+// Projeto: Sala Precisa da Tecnologia
+Prompt 1 – Ideia geral:
+Vamos criar um podcast sobre tecnologia para o desafio da DIO. Me dê sugestões de temas e nomes para o Podcast.
+"Gostei desse tema: 'Tendências da inteligência artificial'. Vamos criar o nome do podcast.
+Me dê sugestões de nomes para o meu podcast, tema: Tendências da inteligência artificial.
+Use referências nerds, Harry Potter, The Big Bang Theory..."
+
+Prompt 2 – Nome escolhido:
+
+"Gostei desse: Sala Precisa da Tecnologia – Porque a IA aparece quando mais precisamos.
+Vamos criar o roteiro. Use o nome para montar o roteiro."
+
+Prompt 3 – Personalização com apresentadora:
+
+"Melhor substituir o apresentador por 'mim' né!? Mude o nome para Vick.
+E no roteiro coloque uma curiosidade sobre o tema."
+
+Prompt 4 – Tom e público:
+
+"O roteiro precisa ser informativo mas também divertido, uma vibe jovial, para o público de estudantes."
